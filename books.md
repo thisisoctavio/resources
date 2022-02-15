@@ -184,6 +184,7 @@ __People__
 ### General
 
 - [The Exponential Age](https://www.exponential-book.com/us)
+- [Stolen Focus](http://stolenfocusbook.com)
 
 ### Corporations
 
