@@ -4,4 +4,4 @@ This is a repository of different resources (e.g. articles, books, videos and pe
 
 I hope you will find them useful.
 
-Do you have any suggestions? Feel free to (write me)[mailto:octa099@gmail.com].
+Do you have any suggestions? Feel free to [write me](mailto:octa099@gmail.com).
