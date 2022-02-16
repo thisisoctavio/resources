@@ -1,12 +1,9 @@
 
-# Books
-
-(Among other stuff)
+# Articles & Books
 
 ## Arts
 
 - [The end of storytelling](https://www.immersiveriggs.com/endofstorytelling)
-
 
 
 ## Asia
@@ -26,7 +23,6 @@
 - [Kim Il Sung: The North Korean Leader](http://cup.columbia.edu/book/kim-il-sung/9780231065733)
 
 
-
 ## Business
 
 - [Shoe Dog](https://www.simonandschuster.com/books/Shoe-Dog/Phil-Knight/9781501135934)
@@ -36,7 +32,6 @@
 - [The Business of Platforms](https://www.harperacademic.com/book/9780062896339/the-business-of-platforms/)
 
 - [The Myth of the Strong Leader](http://libgen.st/search.php?req=The+Myth+of+the+Strong+Leader&open=0&res=25&view=simple&phrase=1&column=title)
-
 
 
 ## China
@@ -61,10 +56,6 @@
 
 - [To Act Is to Know: Chinese Dilemmas](https://www.goodreads.com/book/show/4799323-to-act-is-to-know)
 
-- [Qin Hui](https://en.wikipedia.org/wiki/Qin_Hui_(historian))
-
-__Books__
-
 - [The Party and the People: Chinese Politics in the 21st Century](https://press.princeton.edu/books/hardcover/9780691186641/the-party-and-the-people)
 
 - [The Chinese Communist Party: A Century in Ten Lives](https://www.cambridge.org/cl/academic/subjects/history/east-asian-history/chinese-communist-party-century-ten-lives?format=PB)
@@ -74,19 +65,6 @@ __Books__
 - [China's Gilded Age](https://www.cambridge.org/ar/academic/subjects/politics-international-relations/comparative-politics/chinas-gilded-age-paradox-economic-boom-and-vast-corruption?format=AR)
 
 - [Engaging China](http://cup.columbia.edu/book/engaging-china/9780231201292)
-
-__People__
-
-- [Yan Xuetong](https://en.wikipedia.org/wiki/Yan_Xuetong)
-
-- [Zhou Rongxin](https://en.wikipedia.org/wiki/Zhou_Rongxin)
-
-- [Wang Jisi](https://en.wikipedia.org/wiki/Wang_Jisi)
-
-
-
-
-
 
 
 ## All things tech
@@ -147,8 +125,6 @@ __People__
 
 
 
-
-
 ## Design
 
 - [Designing Interfaces](https://designinginterfaces.com)
@@ -165,37 +141,17 @@ __People__
 
 - [The Design Process](https://www.bloomsbury.com/us/design-process-9781609018382)
 
-- [Susan Weinschenk](https://en.wikipedia.org/wiki/Susan_Weinschenk)
-
 - [Designing Interfaces](https://www.oreilly.com/library/view/designing-interfaces-3rd/9781492051954/)
 
 - [Evil by Design: Interaction Design to Lead Us into Temptation](https://www.wiley.com/en-us/Evil+by+Design%3A+Interaction+Design+to+Lead+Us+into+Temptation-p-9781118654811)
 
 
-
-
-
-
-
-
-
 ## Technology and Society
-
-### General
 
 - [The Exponential Age](https://www.exponential-book.com/us)
 - [Stolen Focus](http://stolenfocusbook.com)
-
-### Corporations
-
 - [The Big Nine](https://amywebb.io/books/)
-
-### Robots
-
 - [The New Breed](https://www.indiebound.org/book/9781250296108)
-
-### Privacy
-
 - [Privacy Is Power](https://www.carissaveliz.com/books)
 
 
@@ -212,18 +168,6 @@ __People__
 
 ### Chinese Economics
 
-- [Wu Jinglian (吴敬链)](https://en.wikipedia.org/wiki/Wu_Jinglian)
-
-- [Gu Zhun (顾准)](https://en.wikipedia.org/wiki/Gu_Zhun)
-
-- [Yu Guangyuan (于光遠)](https://en.wikipedia.org/wiki/Yu_Guangyuan)
-
-- [He Qinglian (何清涟)](https://en.wikipedia.org/wiki/He_Qinglian)
-
-- [Guo Yuhua (郭于华)](https://en.wikipedia.org/wiki/Guo_Yuhua)
-
-- [Yang Yao](https://en.wikipedia.org/wiki/Yang_Yao_(academic))
-
 - [Demystifying the Chinese Economy](https://www.cambridge.org/core/books/demystifying-the-chinese-economy/DF9688C7784FB2FA3A7554985C677D0F)
 
 - [In China’s Wake: How the Commodity Boom Transformed Development Strategies in the Global South](http://cup.columbia.edu/book/in-chinas-wake/9780231187978)
@@ -235,55 +179,26 @@ __People__
 - [Dragonomics: How Latin America Is Maximizing (or Missing Out on) China's International Development Strategy](https://www.bookdepository.com/Dragonomics-Carol-Wise/9780300224092?ref=grid-view&qid=1629046261714&sr=1-1)
 
 
-### Soviet Economics
-
-- [Evsei Grigorievich Liberman (Евсей Григорьевич Либерман)](https://en.wikipedia.org/wiki/Evsei_Liberman)
-
-
 ## Energy
 
-- [James Lovelock](http://www.jameslovelock.org)
-
 - [Energy: A Human History](https://www.simonandschuster.com/books/Energy/Richard-Rhodes/9781501105364)
-
 - [Energy and Civilization](http://vaclavsmil.com/2017/05/08/energy-and-civilization-a-history/)
-
 - [Elke U. Weber](https://elke-u-weber.com/index.php?article_id=16)
 
 ### Nuclear
 
 - [Power to Save the World](https://en.wikipedia.org/wiki/Power_to_Save_the_World)
-
 - [La energía nuclear salvará al mundo](https://www.planetadelibros.com/libro-la-energia-nuclear-salvara-el-mundo/312496#soporte/313027)
-
-
-
 
 
 ## General
 
-- [Jiao Guobiao (焦国标) (Chinese dissident)](https://en.wikipedia.org/wiki/Jiao_Guobiao)
-
 - [The Master Switch](https://www.penguinrandomhouse.com/books/194417/the-master-switch-by-tim-wu/)
-
 - [Inventing the Future](https://www.versobooks.com/books/2315-inventing-the-future)
-
 - [Inventing the Future (PDF)](https://openaccess.city.ac.uk/id/eprint/16935/1/SRNICEK%20and%20Williams%20(2015)%20'Inventing%20the%20Future'.pdf)
-
 - [The People’s Republic of Walmart](https://www.versobooks.com/books/2822-the-people-s-republic-of-walmart)
-
 - [The Return of the Public](https://www.versobooks.com/books/1106-the-return-of-the-public)
-
 - [Being Mortal](https://us.macmillan.com/books/9781250076229)
-
-
-
-## Law 
-
-- [Jerome Alan Cohen](https://en.wikipedia.org/wiki/Jerome_A._Cohen)
-
-- [Michael Sandel](https://en.wikipedia.org/wiki/Michael_Sandel)
-
 
 ## Mathematics
 
@@ -308,14 +223,7 @@ __People__
 - [Patriot of Persia](https://www.harpercollins.com/products/patriot-of-persia-christopher-de-bellaigue?variant=32208093413410)
 
 
-## Political Science
-
-- [Minxin Pei (裴敏欣)](https://en.wikipedia.org/wiki/Minxin_Pei)
-
-
 ## Psychology
-
-- [Christopher K. Hsee](https://www.chicagobooth.edu/faculty/directory/h/christopher-k-hsee)
 
 - [Influence: The Psychology of Persuasion](http://libgen.rs/search.php?&res=50&req=Influence%3A+The+Psychology+of+Persuasion&phrase=1&view=simple&column=title&sort=author&sortmode=ASC)
 
