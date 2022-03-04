@@ -6,6 +6,10 @@
 
 ## Economics
 
+### United States
+
+-[Hyman Minsky](https://en.wikipedia.org/wiki/Hyman_Minsky)
+
 ### Soviet Union
 
 - [Evsei Grigorievich Liberman (Евсей Григорьевич Либерман)](https://en.wikipedia.org/wiki/Evsei_Liberman)
