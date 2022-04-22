@@ -162,6 +162,17 @@
 
 - [The Asian Aspiration: Why and How Africa Should Emulate Asia—and What It Should Avoid](https://www.hurstpublishers.com/book/the-asian-aspiration/)
 
+### American and German Schools
+
+- [The Harmony of Interests: Agricultural, Manufacturing, and Commercial](https://en.wikipedia.org/wiki/Henry_Charles_Carey)
+- [The National System of Political Economy](https://en.wikipedia.org/wiki/Friedrich_List)
+
+### Critic on economic theory
+
+- [Machine Dreams: Economics Becomes a Cyborg Science](https://www.cambridge.org/us/academic/subjects/economics/history-economic-thought-and-methodology/machine-dreams-economics-becomes-cyborg-science)
+- [How Economics Forgot History](https://www.routledge.com/How-Economics-Forgot-History-The-Problem-of-Historical-Specificity-in-Social/Hodgson/p/book/9780415257176)
+- [The Struggle over the Soul of Economics](https://press.princeton.edu/books/ebook/9781400822522/the-struggle-over-the-soul-of-economics)
+
 ### General
 
 - [Dani Rodrik](https://en.wikipedia.org/wiki/Dani_Rodrik)
