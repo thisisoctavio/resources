@@ -167,7 +167,7 @@
 - [The Harmony of Interests: Agricultural, Manufacturing, and Commercial](https://en.wikipedia.org/wiki/Henry_Charles_Carey)
 - [The National System of Political Economy](https://en.wikipedia.org/wiki/Friedrich_List)
 
-### Critic on economic theory
+### Critique on economic theory
 
 - [Machine Dreams: Economics Becomes a Cyborg Science](https://www.cambridge.org/us/academic/subjects/economics/history-economic-thought-and-methodology/machine-dreams-economics-becomes-cyborg-science)
 - [How Economics Forgot History](https://www.routledge.com/How-Economics-Forgot-History-The-Problem-of-Historical-Specificity-in-Social/Hodgson/p/book/9780415257176)
@@ -176,6 +176,8 @@
 ### General
 
 - [Dani Rodrik](https://en.wikipedia.org/wiki/Dani_Rodrik)
+
+- [A contribution to the theory of trade cycles by Hicks](https://archive.org/details/contributiontoth0000hick)
 
 ### Chinese Economics
 
